@@ -10,6 +10,8 @@ Far comparire gli indirizzi email solamente quando sono stati tutti generati.
 >creo un array vuoto nei data
 
 >tra i metodi richiamo l'API generatrice di mail casuali
+
+>crao una funzione con un ciclo for che crea una mail random per 10 volte
     >le pusho nell'array
 
 >stampo gli elementi dell'array in pagin con ciclo v-for
