@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(97, 68, 108);
+    color:  rgb(199, 166, 211);
+}
+
+h1{
+    text-align: center;
+    padding: 3rem;
+}
+
+ul{
+    list-style: none;
+    padding: 0 4rem;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+ul>li{
+    margin-bottom: 1rem;
+    border: 1px solid rgb(199, 166, 211);
+    border-radius: .5rem;
+    padding: .5rem;
+}
+
+li:hover{
+    background-color: rgb(199, 166, 211);
+    color: rgb(97, 68, 108);
+    cursor: pointer;
+}
